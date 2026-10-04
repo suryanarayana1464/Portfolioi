@@ -1,0 +1,8 @@
+{
+  "name": "MyPortfolio",
+  "description": "A modern, responsive personal developer portfolio featuring projects, skills, work experience, certificates, achievements, and contact section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
